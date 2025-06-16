@@ -25,9 +25,10 @@ I believe in community-built stuff and privacy-respecting software!
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:frenchgithubuser@tutanota.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  /><a/>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://signal.me/#eu/3ubfaeherq91HPpbKHhli5SOgS5er9wV1ZlCxe5ZN8wsOUJanDdFQ4mFPgMEwTnD" target="_blank"><img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  /><a/>
+  <a href="https://discord.com/users/FrenchGithubUser" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /><a/>
+  <a href="mailto:frenchgithubuser@tutanota.com"><img src="https://img.shields.io/static/v1?message=Email&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  /><a/>
+  <a href="https://www.linkedin.com/in/thomas-traineau-36a8131b2/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /><a/>
 </div>
 
 ###
