@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Thomas from France. Currently looking for a job</h2>
+<h2 align="left">Hi 👋! I'm Thomas from France.</h2>
 
 I believe in community-built stuff and privacy-respecting software!
 
